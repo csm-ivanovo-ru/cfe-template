@@ -1,4 +1,4 @@
-# Поддержка быстрого перехода к сопоставленным объектам
+# Расширение конфигурации 1С:Предприятие
 
 [![GitHub release](https://img.shields.io/github/v/release/csm-ivanovo-ru/{repository-name}.svg?sort=semver&logo=github)](https://github.com/csm-ivanovo-ru/{repository-name}/releases)
 
